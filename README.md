@@ -2,9 +2,29 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13770235&assignment_repo_type=AssignmentRepo)
 
 # Pagina desplegada: https://dsaw-2024-1.github.io/responsive-design-101-Tw3kda/
+
+Mobile
+
+![Screenshot 2024-02-12 073535](https://github.com/DSAW-2024-1/responsive-design-101-Tw3kda/assets/148833934/1d770414-6f13-41bf-916b-adc665f01551)
+
+Tablet
+
+![image](https://github.com/DSAW-2024-1/responsive-design-101-Tw3kda/assets/148833934/a87dfe7c-9054-4c01-ac35-a75a0a433a69)
+
+Desktop
+
+![image](https://github.com/DSAW-2024-1/responsive-design-101-Tw3kda/assets/148833934/57d8b43f-dc89-48c4-9115-8d5f7f2eca75)
+
+
+
+
+
+
 # Taller de Desarrollo Web: Página de Recetas
 
 ![Preview del diseño](./design/desktop-preview.jpg)
+
+
 
 
 Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar una página sencilla de recetas. Este taller se divide en dos partes:
